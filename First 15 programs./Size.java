@@ -29,6 +29,6 @@ public class Size {
         break;
 
     }
-    System.out.println("Size: " + size);
+    System.out.println("Size : " + size);
   }
 }
