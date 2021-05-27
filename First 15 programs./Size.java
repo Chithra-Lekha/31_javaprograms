@@ -4,7 +4,7 @@ public class Size {
     int number = 44;
     String size;
 
-    // switch statement to check size
+    
     switch (number) {
 
       case 29:
@@ -15,7 +15,7 @@ public class Size {
         size = "Medium";
         break;
 
-      // match the value of week
+      
       case 44:
         size = "Large";
         break;
