@@ -5,8 +5,8 @@ double depth;
 }
 class BoxDemo2{
 public static void main(String args[]){
-Box1 myBox1=new Box();
-Box1 myBox2=new Box();
+Box1 myBox1=new Box1();
+Box1 myBox2=new Box1();
 double vol;
 myBox1.width=10;
 myBox1.height=12;
